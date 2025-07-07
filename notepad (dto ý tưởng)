@@ -1,5 +1,8 @@
 tạo 6 bảng sql:
 1. user
-2.
-3
+2.Products
+3.Categories
+4.Order
+5.Order_detail
+6.Paysments
 
